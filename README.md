@@ -1,3 +1,2 @@
-# Python Kod Depom
+# Python Kod Derlemelerim
 
-Python kod derlemelerim.
